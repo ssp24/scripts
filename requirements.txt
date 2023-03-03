@@ -2,7 +2,6 @@ pandas
 nltk
 numpy
 WordCloud
-collections
 string   
 os
 codecs
