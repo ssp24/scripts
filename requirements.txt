@@ -1,14 +1,6 @@
 pandas
-ipywidgets
-voila
-matplotlib
-jupyterlab
-requests
-bs4
-lxml
 nltk
 numpy
-plotly.express
 wordcloud
 collections
 string   
